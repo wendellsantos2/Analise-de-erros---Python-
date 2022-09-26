@@ -1,0 +1,7 @@
+ip_slm=192.168.140.236
+porta_slm=7076
+endpoint_slm=getLog
+mysql_login=teste
+mysql_pass=123@mudar
+mysql_server=teste
+mysql_database=teste
